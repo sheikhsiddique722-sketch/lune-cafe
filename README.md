@@ -30,5 +30,5 @@ A beautifully designed single-page café website built with pure HTML, CSS, and 
 No build step required. Just open `index.html` in any browser.
 
 ## Live Preview
-
+https://sheikhsiddique722-sketch.github.io/lune-cafe/
 Open `index.html` directly in your browser.
