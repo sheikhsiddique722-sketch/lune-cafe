@@ -2,7 +2,7 @@
 
 A beautifully designed single-page café website built with pure HTML, CSS, and JavaScript — no frameworks, no dependencies.
 
-## Features
+## Features 
 
 - Animated loader & custom cursor
 - Parallax hero section with moon illustration
