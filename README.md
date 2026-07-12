@@ -1,4 +1,4 @@
-# ☕ Lune Café
+# ☕ Lune Café 
 
 A modern and elegant café website built as a frontend project. **Lune Café** is designed to deliver a warm and inviting digital experience through beautiful visuals, responsive layouts, and an intuitive user interface inspired by contemporary coffee shop websites.
 
