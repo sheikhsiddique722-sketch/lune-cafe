@@ -3,7 +3,7 @@
 A modern and elegant café website built as a frontend project. **Lune Café** is designed to deliver a warm and inviting digital experience through beautiful visuals, responsive layouts, and an intuitive user interface inspired by contemporary coffee shop websites.
 
 The project focuses on creating a premium online presence for a café by combining modern UI/UX principles, clean frontend architecture, and engaging visual storytelling.
- 
+  
 ---   
   
 ## 🌐 Live Demo 
